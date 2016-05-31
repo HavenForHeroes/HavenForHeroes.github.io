@@ -92,23 +92,3 @@ background-color:white;
  border: solid;
  }
  
- div#auction-nudge-items table.columns tr {
-  background-color: white;
-}
-
-div#auction-nudge-items td.title a {
-color: black;	/* Change to desired colour */
-}
-
-div#auction-nudge-items div.price {
-	color: black;	/* Change to desired colour */
-}
-
-div#auction-nudge-items div.ends {
-	color: black;	/* Change to desired colour */
-}	
-
-div#auction-nudge-items div.view a {
-
-color: black;	/* Change to desired colour */
-}
