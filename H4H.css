@@ -2,6 +2,9 @@ body {
 	background-image: url("background3.jpg");
 }
 
+#Photos{
+margin: auto;}
+
 td.img{
 width:150;
 }
