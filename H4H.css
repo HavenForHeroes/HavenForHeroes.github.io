@@ -1,5 +1,8 @@
 body {
 	background-image: url("background3.jpg");
+	color: white;
+	text-align:center;
+	margin: auto;
 }
 
 #Photos{
@@ -92,3 +95,7 @@ background-color:white;
  border: solid;
  }
  
+#Contact{
+text-align:center;
+margin: auto;
+}
